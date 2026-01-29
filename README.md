@@ -19,6 +19,6 @@ This project was built to reinforce core programming concepts and maintain hands
 * Language: C++
 * Environment: Console / Terminal
 
----
 
-Let me know if you want to include setup instructions or screenshots in the README as well.
+
+
